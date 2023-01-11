@@ -1,6 +1,9 @@
 interface Group {
     id: number,
     name: string,
+    sport: string,
+    area: string,
+    description: string,
     image: string,
 }
 
